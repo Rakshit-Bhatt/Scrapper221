@@ -8,7 +8,7 @@ Since 2016 I've been living and breathing Python development and creating modern
 
 What I'm focusing on: 👨‍💻
 
-Currently improving my DSA, PyUiC skills.
+Currently improving my DSA, PyUiC, Data Science with Python Libraries and ML skills.
   
    
 ## 🛠 Honing about:
